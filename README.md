@@ -8,7 +8,7 @@ This section is to learn to compare differences between versions
 Explore p4 merge tool  and learn variuos commands
 
 ## Deployment
-Lear more new commands
+Learn more commands. This is good to learn
 
 ## Description
 
