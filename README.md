@@ -11,6 +11,7 @@ Explore p4 merge tool  and learn variuos commands
 Learn more commands. This is good to learn
 
 ## Description
+learn how to limit comparison to one file
 
 ## How to Contribute
 
