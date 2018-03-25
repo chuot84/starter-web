@@ -12,6 +12,7 @@ Learn more commands. This is good to learn
 
 ## Description
 learn how to limit comparison to one file
+learn how to compare local master and remote master
 
 ## How to Contribute
 
