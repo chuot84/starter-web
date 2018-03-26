@@ -22,3 +22,4 @@ Please fork this repository and issue PULL requests for review
 2018. Git training
 
 
+## Playing with merge
