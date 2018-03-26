@@ -16,3 +16,8 @@ learn how to compare local master and remote master
 
 ## How to Contribute
 
+### Copyright
+
+2018. Git training
+
+
