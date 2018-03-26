@@ -17,3 +17,8 @@ learn how to compare local master and remote master
 ## How to Contribute
 Please fork this repository and issue PULL requests for review
 
+### Copyright
+
+2018. Git training
+
+
