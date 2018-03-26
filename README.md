@@ -15,4 +15,5 @@ learn how to limit comparison to one file
 learn how to compare local master and remote master
 
 ## How to Contribute
+Please fork this repository and issue PULL requests for review
 
