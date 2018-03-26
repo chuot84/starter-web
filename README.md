@@ -23,3 +23,6 @@ Please fork this repository and issue PULL requests for review
 
 
 ## Playing with merge
+
+## Second testing
+ learn how to disable the fast forward merge
