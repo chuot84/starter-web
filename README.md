@@ -1,5 +1,6 @@
 # Starter Web Project
 This is to learn the difference between Git and Github together
+Learning more on rebase topics
 
 ## Introduction
 This section is to learn to compare differences between versions
