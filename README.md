@@ -20,7 +20,7 @@ Please fork this repository and issue PULL requests for review
 
 ### Copyright
 
-2018. Git training
+2018. Git training. All rights reserved.
 
 
 ## Playing with merge
