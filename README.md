@@ -27,3 +27,4 @@ Please fork this repository and issue PULL requests for review
 
 ## Second testing
  learn how to disable the fast forward merge
+ this is an awesome training on Git
