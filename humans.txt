@@ -16,3 +16,4 @@
 	
 # just for testing purpose
 automatic merge vs. fast forward merge
+learning more about stash
